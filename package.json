@@ -1,9 +1,14 @@
 {
   "name": "claude-usage",
   "displayName": "Claude Usage",
-  "description": "Shows Claude plan usage (session / weekly) in the status bar, styled like Copilot Usage.",
+  "description": "Shows Claude plan usage (session / weekly) in the status bar. Unofficial; not affiliated with Anthropic.",
   "version": "0.2.0",
   "publisher": "local",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zianazari/claude-usage-vscode.git"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
