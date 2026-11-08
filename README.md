@@ -4,6 +4,8 @@ A small VS Code extension that shows your Claude plan usage in the status bar.
 
 > **Unofficial.** This extension is not made, endorsed or supported by Anthropic. "Claude" is a trademark of Anthropic.
 
+![Claude Usage panel opened from the status bar](images/screenshot.png)
+
 The status bar shows the current session percentage, for example `Claude Usage 42%`. Hover over it to see a breakdown with progress bars:
 
 - **Current session** (5-hour window) and when it resets
